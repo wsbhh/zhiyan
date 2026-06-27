@@ -1,3 +1,4 @@
+# 鼠标api调用方法，onnx模型，输入尺寸640
 - Use mss to take screenshots (1920×1080)
 - Detect targets (players/enemies) on the screen in real-time using an ONNX model (YOLOv8)
 - Use Windows SendInput API to automatically move the mouse to aim at detected targets
